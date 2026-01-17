@@ -5,6 +5,7 @@
 // component testlari yaratildi
 // database querylarni optimallashtirish
 // kod formatlash va indentatsiya
+// API response formatini yaxshilash
 // kod formatlash va indentatsiya
 // installation qo'llanmasi yaratildi
 // component testlari yaratildi

@@ -2,6 +2,7 @@
 // kod formatlash va tozalash
 // CORS xatosi tuzatildi
 // validation xatolari tuzatildi
+// changelog yangilandi
 // shopping cart funksiyasi qo'shildi
 // kod formatlash va indentatsiya
 // image optimization qo'shildi

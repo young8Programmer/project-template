@@ -3,6 +3,7 @@
 // database connection muammosi hal qilindi
 const { Router } = require("express")
 // environment variables sozlandi
+// image optimization qo'shildi
 // build konfiguratsiyasi sozlandi
 // type error tuzatildi
 // ESLint qoidalariga moslashtirish

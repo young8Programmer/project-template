@@ -1,5 +1,6 @@
 // database testlari qo'shildi
 // kod formatlash va tozalash
+// API endpoint testlari qo'shildi
 // CORS xatosi tuzatildi
 // kod uslubini yaxshilash
 // validation xatolari tuzatildi

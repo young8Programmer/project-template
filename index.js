@@ -1,5 +1,6 @@
 // API endpoint testlari qo'shildi
 // kod uslubini yaxshilash
+// admin dashboard yaratildi
 // API endpoints qo'shildi
 // caching mexanizmi qo'shildi
 // database querylarni optimallashtirish

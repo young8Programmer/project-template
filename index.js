@@ -2,6 +2,7 @@
 // validation xatolari tuzatildi
 // shopping cart funksiyasi qo'shildi
 // component testlari yaratildi
+// database querylarni optimallashtirish
 // kod formatlash va indentatsiya
 // kod formatlash va indentatsiya
 // installation qo'llanmasi yaratildi

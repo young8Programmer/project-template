@@ -1,6 +1,7 @@
 // error handling yaxshilandi
 const { Router } = require("express")
 // environment variables sozlandi
+// ESLint qoidalariga moslashtirish
 // user authentication qo'shildi
 // bundle size optimallashtirildi
 // dependencies yangilandi

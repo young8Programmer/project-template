@@ -1,4 +1,5 @@
 // kod formatlash va tozalash
+// CORS xatosi tuzatildi
 // image optimization qo'shildi
 // environment variables sozlandi
 // error handling yaxshilandi

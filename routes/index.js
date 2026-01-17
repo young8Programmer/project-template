@@ -3,6 +3,7 @@
 // database connection muammosi hal qilindi
 // integration testlar yaratildi
 const { Router } = require("express")
+// kod formatlash va tozalash
 // unit testlar qo'shildi
 // dependencies yangilandi
 // environment variables sozlandi

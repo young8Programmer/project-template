@@ -3,6 +3,7 @@
 // kod formatlash va indentatsiya
 // installation qo'llanmasi yaratildi
 // API hujjatlarini qo'shish
+// componentlarni qayta tashkilash
 // ESLint qoidalariga moslashtirish
 // database testlari qo'shildi
 // dependencies yangilandi

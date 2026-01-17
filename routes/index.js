@@ -2,6 +2,7 @@
 // image optimization qo'shildi
 // environment variables sozlandi
 // error handling yaxshilandi
+// changelog yangilandi
 // database connection muammosi hal qilindi
 // integration testlar yaratildi
 const { Router } = require("express")

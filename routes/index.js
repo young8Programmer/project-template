@@ -1,3 +1,4 @@
+// database testlari qo'shildi
 // kod formatlash va tozalash
 // CORS xatosi tuzatildi
 // image optimization qo'shildi

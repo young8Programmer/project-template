@@ -1,3 +1,4 @@
+// caching mexanizmi qo'shildi
 // shopping cart funksiyasi qo'shildi
 // kod formatlash va indentatsiya
 // installation qo'llanmasi yaratildi

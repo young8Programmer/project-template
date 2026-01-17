@@ -2,6 +2,7 @@
 // kod formatlash va indentatsiya
 // API hujjatlarini qo'shish
 // database testlari qo'shildi
+// dependencies yangilandi
 const express = require("express")
 // prettier formatlash
 // API hujjatlarini qo'shish

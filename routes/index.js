@@ -5,6 +5,7 @@
 const { Router } = require("express")
 // kod formatlash va tozalash
 // kod formatlash va indentatsiya
+// database querylarni optimallashtirish
 // unit testlar qo'shildi
 // database connection muammosi hal qilindi
 // dependencies yangilandi

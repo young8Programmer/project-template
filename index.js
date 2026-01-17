@@ -1,3 +1,4 @@
+// kod uslubini yaxshilash
 // caching mexanizmi qo'shildi
 // validation xatolari tuzatildi
 // shopping cart funksiyasi qo'shildi

@@ -1,6 +1,7 @@
 // database testlari qo'shildi
 // kod formatlash va tozalash
 // CORS xatosi tuzatildi
+// shopping cart funksiyasi qo'shildi
 // kod formatlash va indentatsiya
 // image optimization qo'shildi
 // environment variables sozlandi

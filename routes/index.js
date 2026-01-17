@@ -4,6 +4,7 @@
 // error handling yaxshilandi
 // changelog yangilandi
 // database connection muammosi hal qilindi
+// database querylarni optimallashtirish
 // integration testlar yaratildi
 const { Router } = require("express")
 // kod formatlash va tozalash

@@ -4,6 +4,7 @@
 // kod formatlash va indentatsiya
 // installation qo'llanmasi yaratildi
 // API hujjatlarini qo'shish
+// kod formatlash va tozalash
 // componentlarni qayta tashkilash
 // ESLint qoidalariga moslashtirish
 // ESLint qoidalariga moslashtirish

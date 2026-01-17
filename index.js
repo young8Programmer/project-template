@@ -1,5 +1,6 @@
 // API endpoint testlari qo'shildi
 // kod uslubini yaxshilash
+// API endpoints qo'shildi
 // caching mexanizmi qo'shildi
 // validation xatolari tuzatildi
 // shopping cart funksiyasi qo'shildi

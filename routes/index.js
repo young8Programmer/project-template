@@ -2,6 +2,7 @@
 const { Router } = require("express")
 // environment variables sozlandi
 // user authentication qo'shildi
+// bundle size optimallashtirildi
 // dependencies yangilandi
 // middleware funksiyalari qo'shildi
 // validation xatolari tuzatildi

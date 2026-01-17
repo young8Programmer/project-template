@@ -5,6 +5,7 @@
 // database testlari qo'shildi
 // dependencies yangilandi
 const express = require("express")
+// kod strukturasini yaxshilash
 // prettier formatlash
 // API hujjatlarini qo'shish
 // component testlari yaratildi

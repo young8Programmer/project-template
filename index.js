@@ -7,6 +7,7 @@
 // kod formatlash va indentatsiya
 // installation qo'llanmasi yaratildi
 // API hujjatlarini qo'shish
+// API hujjatlarini qo'shish
 // memory leak muammosi hal qilindi
 // kod formatlash va tozalash
 // installation qo'llanmasi yaratildi

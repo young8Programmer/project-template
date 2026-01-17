@@ -6,5 +6,6 @@ const express = require("express")
 // API hujjatlarini qo'shish
 // component testlari yaratildi
 
+// kod formatlash va tozalash
 // middleware funksiyalari qo'shildi
 const app = express()

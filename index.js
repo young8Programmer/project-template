@@ -4,6 +4,7 @@
 // API endpoints qo'shildi
 // caching mexanizmi qo'shildi
 // database querylarni optimallashtirish
+// real-time notifications implementatsiya qilindi
 // code comments qo'shildi
 // validation xatolari tuzatildi
 // shopping cart funksiyasi qo'shildi

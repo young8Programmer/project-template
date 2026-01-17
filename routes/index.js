@@ -5,6 +5,7 @@
 const { Router } = require("express")
 // unit testlar qo'shildi
 // environment variables sozlandi
+// code comments qo'shildi
 // image optimization qo'shildi
 // build konfiguratsiyasi sozlandi
 // type error tuzatildi

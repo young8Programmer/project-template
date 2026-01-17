@@ -5,6 +5,7 @@
 // validation xatolari tuzatildi
 // component testlari yaratildi
 // database querylarni optimallashtirish
+// prettier formatlash
 // kod formatlash va indentatsiya
 // API response formatini yaxshilash
 // kod formatlash va indentatsiya

@@ -2,6 +2,7 @@
 // kod formatlash va tozalash
 // API endpoint testlari qo'shildi
 // CORS xatosi tuzatildi
+// routing muammosi hal qilindi
 // kod uslubini yaxshilash
 // validation xatolari tuzatildi
 // changelog yangilandi

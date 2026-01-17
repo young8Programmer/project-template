@@ -3,6 +3,7 @@
 const { Router } = require("express")
 // environment variables sozlandi
 // build konfiguratsiyasi sozlandi
+// type error tuzatildi
 // ESLint qoidalariga moslashtirish
 // user authentication qo'shildi
 // bundle size optimallashtirildi

@@ -1,3 +1,4 @@
+// kod formatlash va tozalash
 // image optimization qo'shildi
 // environment variables sozlandi
 // error handling yaxshilandi

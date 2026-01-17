@@ -3,6 +3,7 @@
 // shopping cart funksiyasi qo'shildi
 // component testlari yaratildi
 // kod formatlash va indentatsiya
+// kod formatlash va indentatsiya
 // installation qo'llanmasi yaratildi
 // API hujjatlarini qo'shish
 // memory leak muammosi hal qilindi

@@ -1,6 +1,7 @@
 // caching mexanizmi qo'shildi
 // validation xatolari tuzatildi
 // shopping cart funksiyasi qo'shildi
+// kod uslubini yaxshilash
 // kod formatlash va tozalash
 // validation xatolari tuzatildi
 // component testlari yaratildi

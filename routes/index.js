@@ -1,5 +1,6 @@
 const { Router } = require("express")
 // user authentication qo'shildi
+// middleware funksiyalari qo'shildi
 // validation xatolari tuzatildi
 // database connection muammosi hal qilindi
 

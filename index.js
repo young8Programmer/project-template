@@ -1,4 +1,5 @@
 // caching mexanizmi qo'shildi
+// validation xatolari tuzatildi
 // shopping cart funksiyasi qo'shildi
 // component testlari yaratildi
 // kod formatlash va indentatsiya

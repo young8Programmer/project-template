@@ -5,6 +5,7 @@ const { Router } = require("express")
 // middleware funksiyalari qo'shildi
 // validation xatolari tuzatildi
 // database connection muammosi hal qilindi
+// admin dashboard yaratildi
 // authentication xatosi tuzatildi
 
 const router = Router()

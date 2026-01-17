@@ -6,6 +6,7 @@
 // ESLint qoidalariga moslashtirish
 // database testlari qo'shildi
 // dependencies yangilandi
+// authentication xatosi tuzatildi
 const express = require("express")
 // kod strukturasini yaxshilash
 // prettier formatlash

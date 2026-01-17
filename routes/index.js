@@ -6,6 +6,7 @@ const { Router } = require("express")
 // bundle size optimallashtirildi
 // dependencies yangilandi
 // database querylarni optimallashtirish
+// database migrations yaratildi
 // package.json yangilandi
 // middleware funksiyalari qo'shildi
 // validation xatolari tuzatildi

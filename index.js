@@ -2,6 +2,7 @@
 // kod uslubini yaxshilash
 // API endpoints qo'shildi
 // caching mexanizmi qo'shildi
+// database querylarni optimallashtirish
 // validation xatolari tuzatildi
 // shopping cart funksiyasi qo'shildi
 // kod uslubini yaxshilash

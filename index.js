@@ -2,6 +2,7 @@
 // kod formatlash va indentatsiya
 // installation qo'llanmasi yaratildi
 // API hujjatlarini qo'shish
+// ESLint qoidalariga moslashtirish
 // database testlari qo'shildi
 // dependencies yangilandi
 const express = require("express")

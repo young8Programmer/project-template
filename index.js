@@ -1,5 +1,6 @@
 // shopping cart funksiyasi qo'shildi
 // kod formatlash va indentatsiya
+// installation qo'llanmasi yaratildi
 // API hujjatlarini qo'shish
 // database testlari qo'shildi
 // dependencies yangilandi

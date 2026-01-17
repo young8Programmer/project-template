@@ -4,6 +4,7 @@
 // integration testlar yaratildi
 const { Router } = require("express")
 // unit testlar qo'shildi
+// dependencies yangilandi
 // environment variables sozlandi
 // code comments qo'shildi
 // image optimization qo'shildi

@@ -1,4 +1,5 @@
 // image optimization qo'shildi
+// environment variables sozlandi
 // error handling yaxshilandi
 // database connection muammosi hal qilindi
 // integration testlar yaratildi

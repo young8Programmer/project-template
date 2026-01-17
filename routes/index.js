@@ -3,6 +3,7 @@
 // CORS xatosi tuzatildi
 // image optimization qo'shildi
 // environment variables sozlandi
+// prettier formatlash
 // error handling yaxshilandi
 // changelog yangilandi
 // database connection muammosi hal qilindi

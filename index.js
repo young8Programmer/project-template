@@ -5,6 +5,7 @@
 // API hujjatlarini qo'shish
 // componentlarni qayta tashkilash
 // ESLint qoidalariga moslashtirish
+// ESLint qoidalariga moslashtirish
 // database testlari qo'shildi
 // dependencies yangilandi
 // authentication xatosi tuzatildi

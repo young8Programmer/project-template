@@ -1,3 +1,4 @@
+// error handling yaxshilandi
 const { Router } = require("express")
 // environment variables sozlandi
 // user authentication qo'shildi

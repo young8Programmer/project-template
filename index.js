@@ -6,6 +6,7 @@
 // kod formatlash va indentatsiya
 // kod formatlash va indentatsiya
 // installation qo'llanmasi yaratildi
+// component testlari yaratildi
 // API hujjatlarini qo'shish
 // API hujjatlarini qo'shish
 // memory leak muammosi hal qilindi

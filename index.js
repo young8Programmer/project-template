@@ -5,6 +5,7 @@
 // kod formatlash va indentatsiya
 // installation qo'llanmasi yaratildi
 // API hujjatlarini qo'shish
+// memory leak muammosi hal qilindi
 // kod formatlash va tozalash
 // componentlarni qayta tashkilash
 // ESLint qoidalariga moslashtirish

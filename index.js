@@ -6,6 +6,7 @@
 // componentlarni qayta tashkilash
 // ESLint qoidalariga moslashtirish
 // ESLint qoidalariga moslashtirish
+// kod formatlash va indentatsiya
 // database testlari qo'shildi
 // dependencies yangilandi
 // authentication xatosi tuzatildi
